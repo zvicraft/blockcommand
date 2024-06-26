@@ -1,0 +1,62 @@
+config: 1.0
+## created by zvicraft
+# Moderation
+language-file: "en_us" # The name of the language file to use
+#general
+
+none-player: "&cOnly a player can do that command."
+none-target: "&cYou need a player to do this command."
+none-need-args: "&7You don't need a bigger argument than that in your command."
+none-alive: "&cThis player does not exist or is not on the server."
+reload: "&aThe plugin has been updated successfully."
+player-same: "&cYou can't do this to yourself!"
+
+#error
+MUST-BE-PLAYER-ERROR: "&cOnly a player can execute this command!"
+
+isConsole1: #bollyan
+isConsole2: #bollyan
+isConsole3: #bollyan
+isConsole4: #bollyan
+CMD1: ""
+CMD2: ""
+CMD3: ""
+CMD4: ""
+
+
+CMD-serve1: ""
+CMD-serve2: ""
+CMD-serve3: ""
+CMD-serve4: ""
+
+speed: 100000
+
+
+world1: ""
+x1.1:
+y1.1:
+z1.!:
+x2.1:
+y2.1:
+z2.1:
+world2: ""
+x1.2:
+y1.2:
+z1.2:
+x2.2:
+y2.2:
+z2.2:
+world3: ""
+x1.3:
+y1.3:
+z1.3:
+x2.3:
+y2.3:
+z2.3:
+world4: ""
+x1.4:
+y1.4:
+z1.4:
+x2.4:
+y2.4:
+z2.4:

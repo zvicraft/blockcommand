@@ -1,0 +1,9 @@
+name: blockcommand
+version: '${project.version}'
+main: com.zvicraft.dev.blockcommand.Blockcommand
+api-version: '1.18'
+depend: [PlaceholderAPI]
+commands:
+  blockreload:
+    description: reload configs
+    usage: /<command>
